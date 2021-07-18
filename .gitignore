@@ -1,6 +1,6 @@
 *.log 
 
-abc/
+
 
 # regular expression to ignore all .log files
 
